@@ -3,7 +3,7 @@
 
 ---
 
-## Introducció [^1]
+## Introducció
 
 
 #### Tipus de Software
@@ -44,7 +44,7 @@
 
 ---
 
-## Cicle de vida del Software [^2]
+## Cicle de vida del Software
 Ingenieria de software
 : Disciplina que estudia els principis i metodologies per el desenvolupament i manteniment de sistemes softwere
 
@@ -83,8 +83,4 @@ prova exhaustiva que implica "*Ingenieria de software*"
             + Perfectiu: Milora la funcionalitat
             + Evolutiu: afegeix funcionalitats noves
             + Adaptatiu: S'adapta a nous entorns
- 
 
-
-[^1]: [Introducció](jamj2000.github.io/entornosdesarrollo/1/diapositivas#/1)
-[^2]: [Cicle de vida del Software](jamj2000.github.io/entornosdesarrollo/1/diapositivas#/2)
