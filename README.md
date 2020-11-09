@@ -3,7 +3,7 @@
 
 ---
 
-## Introducció[^1]
+## Introducció [^1]
 
 
 #### Tipus de Software
@@ -44,7 +44,7 @@
 
 ---
 
-## Cicle de vida del Software[^2]
+## Cicle de vida del Software [^2]
 Ingenieria de software
 : Disciplina que estudia els principis i metodologies per el desenvolupament i manteniment de sistemes softwere
 
