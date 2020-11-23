@@ -1,4 +1,3 @@
-# Apuntes_UF1_1
 # Apunts
 
 ---
@@ -81,6 +80,14 @@ prova exhaustiva que implica "*Ingenieria de software*"
         + Tipus de manteniment:
             + Correctiiu: Corretgeix defectes 
             + Perfectiu: Milora la funcionalitat
-            + Evolutiu: afegeix funcionalitats noves
+            + Evolutiu: Afegeix funcionalitats noves
             + Adaptatiu: S'adapta a nous entorns
+#### Models de desenvolupament de software
 
++ ##### Models clásics(*Predictius*)
+    + **Model en cascada**
+    + **Model en V**
++ **Model de contstrucció de prototips**
++ **Models evolutius o incrementals**
+    + Model en espiral (*Iteratius*)
+    + Metodologíes agils (*Adaptatius*)
