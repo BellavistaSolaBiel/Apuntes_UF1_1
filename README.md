@@ -84,7 +84,7 @@ prova exhaustiva que implica "*Ingenieria de software*"
             + Adaptatiu: S'adapta a nous entorns
 #### Models de desenvolupament de software
 
-+ ##### Models clásics(*Predictius*)
++ #### Models clásics(*Predictius*)
     + **Model en cascada**
     + **Model en V**
 + **Model de contstrucció de prototips**
