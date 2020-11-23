@@ -52,7 +52,7 @@ prova exhaustiva que implica "*Ingenieria de software*"
 
 
 #### Desenvolupament de Software
-+ ##### Fases Principals
++ #### Fases Principals
     + **Analisi**
         + *Es determina i defineix clarament les necesitats del client i s'especifica els requisits que tenen que cumplir el software a desenvolupar*
         + La especificacio ha de ser:
