@@ -86,8 +86,106 @@ prova exhaustiva que implica "*Ingenieria de software*"
 
 + #### Models clásics(*Predictius*)
     + **Model en cascada**
+        + Les fases es fan en ordre, fins que no acabes una no es fa la seguent, una vegada a la seguent no tornes enrrere
+        + De menys a mes detall
+        + Rigid
+        + Anticuat
     + **Model en V**
+        + Les fases es fan en ordre, fins que no acabes una no es fa la seguent, una vegada a la seguent no tornes enrrere 
+        + Fases jerarquiques amb els nivells superiors indicant major abstracció
+        + Rigid
+        + Anticuat
 + **Model de contstrucció de prototips**
+    + Raóns per protptipar
+        + Manca d'experiencia previa
+        + Falta de concrecó del client
+    + Proces
+        + Es creat a la fase de análisi
+        + Es presentat al client per refinar inperfeccións
+        + Repetir
+    + Tipus
+        + Rapids
+            + D'un sol us
+            + Normalment en un llenguatge o eina diferent al final
+        + Evolutius
+            + En el mateix llenguatge que el producte final
+            + S'utilitza com a base per el projecte
 + **Models evolutius o incrementals**
     + Model en espiral (*Iteratius*)
+        + Es pasa per els mateixos pasos de desenvolupament de software reiteradament fins tenir el producte desitjat 
     + Metodologíes agils (*Adaptatius*)
+        + Basat en el desenvolupament iteratiu e incremental
+        + Metodologíes mes conegudes
+            + Kanban
+                + Tambe anomenat "Sistema de targetas"
+                + Enfocat a treure el valor maxim pels clients utilitzant el minim de recursos
+            + Scrum
+                + Iteracións cada 2, 3 o 4 setmanes
+                + Al inici de cada iteració es posen objectius prioritaris
+                + Al final de cada iteració s'obte una entrega parcial utilizable pel client
+                + Reunions diaries per tractar el ritme de les iteracións (*sprint*)
+            + XP(eXtreme Programming)
+                + Diseny simple
+                + Millores petites
+                + Probes
+                + Integració continua
+                + Programació per parelles
+                + El client es par del equip de desenvolupament
+                + 40 hores seemanals
+
+---
+
+#### Llenguatges de Programació
+
++ ##### Tipus de llenguatges
+    + **Segons obtenció del codi executable**
+        + Compilats
+            + Caracteristiques 
+                + Mes eficients
+                + Mes lents en el process de desenvolupament
+            + Agafa el codi complet i el pasa a binari 
+                + Exemples
+                    + C
+                    + C++
+        + Interpretats
+            + Caracteristiques
+                + Menys eficients
+                + Mes rapids en el process de desenvolupament
+            + Interpreta seccions de codi independentment se les altres 
+            + Exemples
+                + PHP
+                + Javascript
+    + **Segons forma que operen**
+        + Declaratius
+            + *Li demanes un output al programa i es ell que s'encarregua de buscar i utilitzar el metode correcte* 
+            + Exemples
+                + Prolog
+                + Lisp
+                + Haskell
+                + SQL
+            + Normalment son interpretats
+        + Imperatius
+            + *Li dius al programa quins pasos seguir per conseguir el resultat que vols*
+            + Exemples
+                + C
+                + Java
+                + C++
+                + Javascript
+            + Molts son compilats
+    + **Segons nivell**
+        + Com mes aprop estan de la interacció amb la maquina mes baix nivell son
+        + Baix nivell
+            + Ensamblador    
+        + Mig nivell
+            + C
+        + Alt nivell
+            + Java
+
+
+
+
+
+ 
+
+
+
